@@ -41,8 +41,8 @@
   - Gesture
     - Two Finger - swift right: Volume Up
     - Two Finger - swift left: Volume Down
-    - Three Finger: swift right: Brightness Up
-    - Three Finger: swift right: Brightness Down
+    - Three Finger - swift right: Brightness Up
+    - Three Finger - swift right: Brightness Down
 - Keyboard
   - Shortcut
     - Ctrl + CMD + Arrow (Maximize Window move)
